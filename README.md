@@ -1,51 +1,34 @@
-Credits:
+# Credits
 
+## Developers
 
+- Lucas Varela Negro (LukkasVN)  
+- Asier Rodrigo Negro (Asier25)
 
-Developers:
+## Music and Sounds
 
-Lucas Varela Negro (LukkasVN)
+- *Audio Arcade: The Definitive Collection of Music and Sound FX from Ovani Sound*
 
-Asier Rodrigo Negro (Asier25)
+## Art
 
+### Game Interface Design and Art
 
+- Lucas Varela Negro (LukkasVN)
 
+### Creature and Obstacle Design and Art
 
-Music and Sounds:
+- Asier Rodrigo Negro (Asier25)
 
-Audio Arcade: The Definitive Collection of Music and Sound FX from Ovani Sound
+### Vehicle Design  
+*(inspired by the user "SOUP_SIPPIN_BOI" on r/pixelart)*
 
+- Asier Rodrigo Negro (Asier25)
 
+### Background and Ground Assets [Free Assets]
 
+- Jesse Munguia | Twitter: [@Jsf23Art](https://twitter.com/Jsf23Art)  
+  Source: [https://jesse-m.itch.io/jungle-pack](https://jesse-m.itch.io/jungle-pack)
 
-Art:
+## Programming
 
-Game Interface Design and Art:
-
-Lucas Varela Negro (LukkasVN)
-
-
-
-
-Creature and Obstacle Design and Art:
-
-Asier Rodrigo Negro (Asier25)
-
-
-
-
-Vehicle Design (inspired by the user "SOUP_SIPPIN_BOI" on r/pixelart):
-
-Asier Rodrigo Negro (Asier25)
-
-
-
-
-Background and Ground Assets [Free Assets]:
-
-Jesse Munguia | Twitter | @Jsf23Art (Source: https://jesse-m.itch.io/jungle-pack)
-
-
-Programming:
-
-Lucas Varela Negro (LukkasVN)
+- Lucas Varela Negro (LukkasVN)
